@@ -1,0 +1,11 @@
+# robots.txt for D. WEST RESTAURANTS
+
+User-agent: *
+Allow: /
+
+# Optional: Block specific folders (if any)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Sitemap (if available - link to your sitemap here)
+# Sitemap: https://enockwest.github.io/mypizza15/sitemap.xml
